@@ -58,7 +58,6 @@ to <policy domain="path" rights="read,write" pattern="@*" />
 ```
 
 # BigGan_Dall-E_Clip with moviepy
-I used the Dall-E Encoder: https://colab.research.google.com/drive/1Q-TbYvASMPRMXCOQjkxxf72CXYjR_8Vp?usp=sharing#scrollTo=7EuUz-ICNKUr
 Please create a folder 'output' for the generated images to be saved in.
 Please install clip and dall-e
 ```console
