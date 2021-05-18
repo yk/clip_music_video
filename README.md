@@ -1,4 +1,4 @@
-# clip_music_video
+# CLIP music video
 Code for making music videos using CLIP
 
 ## How to run (using biggan)
@@ -8,6 +8,8 @@ Code for making music videos using CLIP
  use less epochs to trade off quality and speed.
 
 ## References
+
+[https://twitter.com/advadnoun](https://twitter.com/advadnoun)
 
 [https://towardsdatascience.com/generating-images-from-prompts-using-clip-and-stylegan-1f9ed495ddda](https://towardsdatascience.com/generating-images-from-prompts-using-clip-and-stylegan-1f9ed495ddda)
 
