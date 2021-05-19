@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Taken from https://github.com/IVRL/GANLocalEditing
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
